@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td><img src="./assets/keyboard.jpg" width="420" height="320"></td>
-    <td><p>Nothing special, just wanna show my favouriate keyboards.</p></td>
+    <td><code>Nothing special, just wanna show my favourite keyboards.</code></td>
   </tr>
 </table>
 
