@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td><img src="./assets/keyboard.jpg" width="420" height="320"></td>
-    <td><code>Nothing special, <br>just wanna show my favourite keyboards.</code></td>
+    <td><code>Nothing special, <br>just wanna show my favourite keyboards. Contact me to know more about me!</code></td>
   </tr>
 </table>
 
@@ -37,6 +37,6 @@
 <table>
   <tr>
     <td><img src="./assets/meat.jpg" width="420" height="320"></td>
-    <td><code>Nothing special, <br>is it looks good?</code></td>
+    <td><code>Nothing special, <br>is it looks good? ontact me to know more about good meals!</code></td>
   </tr>
 </table>
