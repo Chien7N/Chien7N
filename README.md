@@ -1,5 +1,4 @@
-## Hi there
-### Welcome to my github profile
+## Hi there, Welcome to my github profile
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
