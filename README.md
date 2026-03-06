@@ -10,7 +10,7 @@
 ## About Me
 <table>
   <tr>
-    <td><img src="./assets/keyboard.jpg" width="400" height="300"></td>
+    <td><img src="./assets/keyboard.jpg" width="420" height="320"></td>
     <td><p>Nothing special, just wanna show my favouriate keyboards.</p></td>
   </tr>
 </table>
