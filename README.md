@@ -8,8 +8,12 @@
 - [My Life](#my-life)
 
 ## About Me
-<img src="./assets/keyboard.jpg" width="400" height="300" style="object-fit:cover">
-Nothing special, just wanna show my favouriate keyboards.
+<table>
+  <tr>
+    <td><img src="./assets/keyboard.jpg" width="400" height="300"></td>
+    <td><p>Nothing special, just wanna show my favouriate keyboards.</p></td>
+  </tr>
+</table>
 
 
 ## Project
