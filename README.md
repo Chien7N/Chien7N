@@ -15,14 +15,14 @@
   </tr>
 </table>
 
-A third-year computer science student at **UNSW Sydney**, interested in algorithms, system security, and software design. Actively involved in cybersecurity events and CTFs competitions with hands-on experience supporting enterprise security monitoring and operational workflows.
+A third-year computer science student at **$${\color{blue}UNSW\ Sydney}$$**, interested in algorithms, system security, and software design. Actively involved in cybersecurity events and CTFs competitions with hands-on experience supporting enterprise security monitoring and operational workflows.
 
 Now, I'm engage in learning more and more math, try to get in touch quant fields!
 
 ### Logs
-- Student in **UNSW Sydney** 2024 - 2026
-- Security Engineer Intern in **Inventec** 2025 - 2026 Feb
-- Now - Contact Me!
+- Student in **$${\color{blue}UNSW\ Sydney}$$**: 2024 - 2026
+- Security Engineer Intern in **$${\color{blue}Inventec}$$**: 2025 - 2026 Feb
+- Now: **$${\color{blue}Contact\ Me}$$**!
 
 ## Project
 
