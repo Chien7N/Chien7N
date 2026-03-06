@@ -8,7 +8,7 @@
 - [My Life](#life)
 
 ## About Me
-<img src="./assets/keyboard.jpg" max-width="80%" height="20%">
+<img src="./assets/keyboard.jpg" max-width="60%" max-height="20%">
 
 
 ## Project
@@ -29,4 +29,4 @@
 
 
 ## My Life
-<img src="./assets/meat.jpg" max-width="80%" height="20%">
+<img src="./assets/meat.jpg" max-width="60%" max-height="20%">
