@@ -10,11 +10,14 @@
 ## About Me
 <table>
   <tr>
-    <td><img src="./assets/keyboard.jpg" width="420" height="320"></td>
-    <td><code>Nothing special, <br>just wanna show my favourite keyboards. Contact me to know more about me!</code></td>
+    <td><img src="./assets/keyboard.jpg" width="400" height="300"></td>
+    <td><code>Nothing special, <br>just wanna show my favourite keyboards. Contact me to know more about these!</code></td>
   </tr>
 </table>
 
+A third-year computer science student at UNSW Sydney, interested in algorithms, system security, and software design. Actively involved in cybersecurity events and CTFs competitions with hands-on experience supporting enterprise security monitoring and operational workflows.
+
+Now, I'm engage in learning more and more math, try to get in touch quant fields!
 
 ## Project
 
@@ -36,7 +39,7 @@
 ## My Life
 <table>
   <tr>
-    <td><img src="./assets/meat.jpg" width="420" height="320"></td>
-    <td><code>Nothing special, <br>is it looks good? ontact me to know more about good meals!</code></td>
+    <td><img src="./assets/meat.jpg" width="400" height="300"></td>
+    <td><code>Nothing special, <br>is it looks good? contact me to know more about good meals!</code></td>
   </tr>
 </table>
