@@ -5,10 +5,10 @@
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
-- [My Life](#life)
+- [My Life](#my-life)
 
 ## About Me
-<img src="./assets/keyboard.jpg" max-width="50%" max-height="40rem">
+<img src="./assets/keyboard.jpg" width="50%">
 
 
 ## Project
@@ -29,4 +29,4 @@
 
 
 ## My Life
-<img src="./assets/meat.jpg" max-width="50%" max-height="40rem">
+<img src="./assets/meat.jpg" width="50%">
