@@ -1,17 +1,33 @@
 ## Hi there
-# Welcome to my github profile
+### Welcome to my github profile
+## Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+- [My Life](#life)
 
-<!--
-**Chien7N/Chien7N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+![keyboard](./assets/keyboard.jpg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Project
+
+
+
+
+## Skills
+
+
+
+
+
+## Contact
+
+
+
+
+
+## My Life
+![food](./assets/meat.jpg)
