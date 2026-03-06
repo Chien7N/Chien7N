@@ -8,9 +8,12 @@
 - [My Life](#my-life)
 
 ## About Me
-<img src="./assets/keyboard.jpg" width="350" height="280" style="object-fit:cover">
-<img src="./assets/japan.jpg" width="350" height="280" style="object-fit:cover">
-
+<table>
+  <tr>
+    <td><img src="./assets/keyboard.jpg" width="350" height="280"></td>
+    <td><img src="./assets/japan.jpg" width="350" height="280"></td>
+  </tr>
+</table>
 
 
 ## Project
