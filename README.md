@@ -8,12 +8,7 @@
 - [My Life](#my-life)
 
 ## About Me
-<table>
-  <tr>
-    <td><img src="./assets/keyboard.jpg" width="350" height="280" style="object-fit:cover"></td>
-    <td><img src="./assets/japan.jpg" width="350" height="280" style="object-fit:cover"></td>
-  </tr>
-</table>
+<img src="./assets/keyboard.jpg" width="400" height="300" style="object-fit:cover">
 
 
 ## Project
@@ -34,4 +29,4 @@
 
 
 ## My Life
-<img src="./assets/meat.jpg" width="350" height="280" style="object-fit:cover">
+<img src="./assets/meat.jpg" width="400" height="300" style="object-fit:cover">
