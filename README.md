@@ -8,8 +8,7 @@
 - [My Life](#life)
 
 ## About Me
-![keyboard](./assets/keyboard.jpg)
-
+<img src="./assets/keyboard.jpg" width="50%">
 
 
 ## Project
@@ -30,4 +29,4 @@
 
 
 ## My Life
-![food](./assets/meat.jpg)
+<img src="./assets/meat.jpg" width="50%">
